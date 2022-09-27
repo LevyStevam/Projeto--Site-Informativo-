@@ -1,4 +1,5 @@
 # Página Informativa
+-preview da página e detalhes abaixo:
 
 ![preview](./.github/preview.png)
 
